@@ -1,0 +1,4 @@
+{
+  "GeneralHough.py::test": true,
+  "GeneralHough.py::test_general_hough": true
+}
